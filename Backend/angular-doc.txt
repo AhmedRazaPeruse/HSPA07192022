@@ -1,0 +1,63 @@
+1) https://angular.io/cli
+
+2) https://nodejs.org/en/
+
+3) https://code.visualstudio.com/
+
+4)Angular 9 Best Changes
+ 1.smallar size
+ 2.high performance
+ 3.better development experience
+
+Ivy
+
+angular code 
+            compiler Ivy (View engine)
+                         Browser Understandable code
+
+end to end testing
+
+-----------------------------------------------------------
+
+Basic Angular Extension
+
+1. Angular Essiential
+2. Auto Rename Tag
+3. Bracket Pair Colorizer 2
+4. Angular Files
+5. IntelliSense for CSS class names in HTML
+6. https://www.c-sharpcorner.com/article/how-to-fix-ps1-can-not-be-loaded-because-running-scripts-is-disabled-on-this-sys/
+7. git-scm.com
+8. Matarial Theme
+9. Folder and file
+
+-----------------------------------------------------------
+
+git init
+git commit
+git config --global user.email "darahmed55@gmail.com"
+git config --global user.name "AhmedRazaPeruse"
+git remote add origin https://github.com/AhmedRazaPeruse/HSPA-2022.git
+git push -u origin main
+
+----------------------
+
+git pull origin master --allow-unrelated-histories 
+git push origin master
+
+git remote add origin <repository url>
+When I tried to push or pull, I got the same fatal: unrelated_histories error every time.
+
+Here is how I fixed it:
+
+git pull origin master --allow-unrelated-histories
+git merge origin origin/master
+... add and commit here...
+git push origin master
+
+-----------------------------------------------------------
+
+https://github.com/webtrainer-in/HSPA
+https://www.buymeacoffee.com/studymash
+
+
